@@ -2,7 +2,7 @@
 
 
 - 🔭 Graduando de Sistemas de Informação
-- 🌱 Estudo Python, Java, JavaScript, HTML e CSS
+- ☕ Estudo Python, Java, JavaScript, HTML e CSS
 - ⚡ Tentando ser um Dev FullStack
 
  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=josenathan0&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
